@@ -1,1 +1,2 @@
 # WxSpider
+思路就是调用windows的api操作微信pc端，mitmproxy抓包获取参数，然后就简单了
